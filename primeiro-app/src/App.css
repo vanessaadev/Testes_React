@@ -1,0 +1,17 @@
+:root {
+  /* Paleta de Cores */
+  --Cor-principal: #6767ff;
+  --Cor-destaque: crimson;
+  --Cor01: #d4c6c6;
+  --Cor02: #999999;
+  --Cor03: #999999;
+  --Cor04: #232323;
+}
+
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

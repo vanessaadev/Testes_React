@@ -1,0 +1,7 @@
+footer {
+    min-height: 10rem;
+    background-color: var(--Cor04);
+    color: var(--Cor01);
+    padding: 2rem 3rem;
+    width: 100vw;
+}

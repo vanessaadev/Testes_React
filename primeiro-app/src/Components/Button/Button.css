@@ -1,0 +1,13 @@
+button {
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 0.8rem 1rem;
+    background-color: var(--Cor01);
+    color: var(--Cor04);
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--Cor02);
+}
